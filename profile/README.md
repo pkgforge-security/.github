@@ -8,7 +8,7 @@
 
 ### About ℹ️
 > - Welcome to [Package Forge Security](https://github.com/pkgforge-security), a sub organization under [PkgForge](https://github.com/pkgforge)
-> - Here, [PkgForge](https://github.com/orgs/pkgforge-security/people)'s Release Tooling & Research meant for Exploiting & Securing the Internet
+> - Here, [PkgForge](https://github.com/orgs/pkgforge-security/people) Publishes Tooling & Research meant for Exploiting & Securing the Internet
 ---
 
 ### Devs & Projects 🎯
