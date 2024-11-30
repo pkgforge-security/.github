@@ -23,10 +23,11 @@
 - #### Cool! How Can I participate, help & Contribute?
 > - Star ⭐ & Check our core Projects:
 > > - [Soar](https://github.com/pkgforge/soar): Official [`Package-Manager`](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
-> > - [SoarPkgs](https://github.com/pkgforge/soarpkgs): Official (`pkgforge-community`) Repo ⚙️ containing Soar Build ([`.SBUILD`](https://github.com/pkgforge/soarpkgs/blob/main/SBUILD_SPEC.md)) 📦📀 Recipes to Build, Install & Integrate Everything
-> > - [Toolpacks](https://github.com/Azathothas/Toolpacks): Official (`pkgforge-edge`) Repo 📦 & The Largest Collection of Pre-Compiled (+ UPXed) `*Unix` Static Binaries
-> > - [PkgCache](https://github.com/pkgforge/pkgcache): Official (`pkgforge-edge`) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage]
-> > - [BinCache](https://github.com/pkgforge/bincache): Official (`pkgforge-stable`) Repo 📀, [Importing & SnapShotting](https://github.com/Azathothas/Toolpacks-BinCache-Importer) [Toolpacks](https://huggingface.co/datasets/pkgforge/bincache) & [PkgCache](https://huggingface.co/datasets/pkgforge/pkgcache) Periodically.
+> > > <a href="https://github.com/pkgforge/soar"><img src="https://bin.pkgforge.dev/list.gif?tmp.9kKhriKLcy=tmp.qxLiv67iiV" alt="soar-list"></a><br>
+> > - [SoarPkgs](https://github.com/pkgforge/soarpkgs): Official ([`pkgforge-community`](https://docs.pkgforge.dev/repositories/pkgforge-community)) Repo ⚙️ containing Soar Build ([`.SBUILD`](https://docs.pkgforge.dev/sbuild/specification)) 📦📀 Recipes to Build, Install & Integrate Everything
+> > - [Toolpacks](https://github.com/Azathothas/Toolpacks): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📦 & The Largest Collection of Pre-Compiled (+ UPXed) `*Unix` Static Binaries
+> > - [PkgCache](https://github.com/pkgforge/pkgcache): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage](https://docs.pkgforge.dev/formats/packages)
+> > - [BinCache](https://github.com/pkgforge/bincache): Official ([`pkgforge-stable`](https://docs.pkgforge.dev/repositories/pkgforge-stable)) Repo 📀, [Importing & SnapShotting](https://github.com/Azathothas/Toolpacks-BinCache-Importer) [Toolpacks](https://huggingface.co/datasets/pkgforge/bincache) & [PkgCache](https://huggingface.co/datasets/pkgforge/pkgcache) Periodically.
 > - Join the [Discussion at Telegram](https://t.me/official_loonix/89879): https://t.me/official_loonix/89879
 
 - #### [**Community 💬**](https://t.me/official_loonix/89879)
