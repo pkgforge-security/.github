@@ -17,17 +17,16 @@
 
 ### Devs & Projects 🎯
 - #### [@todo](https://github.com/todo)
-> - [todo](https://github.com/pkgforge-dev/todo): 
+> - [todo](): 
 
 ### `FAQ` 📖
 - #### Cool! How Can I participate, help & Contribute?
 > - Star ⭐ & Check our core Projects:
-> > - [Soar](https://github.com/pkgforge/soar): Official [`Package-Manager`](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
+> > - [Soar](https://github.com/pkgforge/soar): The Modern, Bloat-Free Distro-Independent [Package Manager](https://soar.qaidvoid.dev/) built in blazingly fast 🦀 Rust
 > > > <a href="https://github.com/pkgforge/soar"><img src="https://bin.pkgforge.dev/list.gif?tmp.UqB0NW0x4y=tmp.HtgIN7OT8M" alt="soar-list"></a><br>
-> > - [SoarPkgs](https://github.com/pkgforge/soarpkgs): Official ([`pkgforge-community`](https://docs.pkgforge.dev/repositories/pkgforge-community)) Repo ⚙️ containing Soar Build ([`.SBUILD`](https://docs.pkgforge.dev/sbuild/specification)) 📦📀 Recipes to Build, Install & Integrate Everything
-> > - [Toolpacks](https://github.com/Azathothas/Toolpacks): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📦 & The Largest Collection of Pre-Compiled (+ UPXed) `*Unix` Static Binaries
-> > - [PkgCache](https://github.com/pkgforge/pkgcache): Official ([`pkgforge-edge`](https://docs.pkgforge.dev/repositories/pkgforge-edge)) Repo 📀 Collection of Pre-Packaged Portable Packages [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage](https://docs.pkgforge.dev/formats/packages)
-> > - [BinCache](https://github.com/pkgforge/bincache): Official ([`pkgforge-stable`](https://docs.pkgforge.dev/repositories/pkgforge-stable)) Repo 📀, [Importing & SnapShotting](https://github.com/Azathothas/Toolpacks-BinCache-Importer) [Toolpacks](https://huggingface.co/datasets/pkgforge/bincache) & [PkgCache](https://huggingface.co/datasets/pkgforge/pkgcache) Periodically.
+> > - [SoarPkgs](https://github.com/pkgforge/soarpkgs): 📦📀 [Soar User Repository](https://docs.pkgforge.dev/repositories/soarpkgs) containing [`.SBUILD`](https://docs.pkgforge.dev/sbuild/introduction) for Making Linux Packaging truly Portable, Simple, and Distro-Independent
+> > - [BinCache](https://github.com/pkgforge/bincache): 📦 The Largest Collection of [Pre-Compiled Linux Static Binaries](https://pkgs.pkgforge.dev), used as the primary [Binary cache](https://docs.pkgforge.dev/repositories/bincache) for Soar
+> > - [PkgCache](https://github.com/pkgforge/pkgcache):  📀 [Pre-Built Portable Packages](https://docs.pkgforge.dev/repositories/pkgcache) [AppBundle | AppImage (+zsync) | Archive | FlatImage | GameImage | RunImage](https://docs.pkgforge.dev/formats/packages)
 > - Join the [Discussion at Discord](https://discord.gg/djJUs48Zbu): [![Discord](https://img.shields.io/discord/1313385177703256064?logo=%235865F2&label=Discord)](https://discord.gg/djJUs48Zbu)
 
 ### [**Community 💬**](https://docs.pkgforge.dev/contact/chat)
