@@ -16,8 +16,10 @@
 ---
 
 ### Devs & Projects 🎯
-- #### [@todo](https://github.com/todo)
-> - [todo](): 
+- #### [@Azathothas](https://github.com/Azathothas)
+> - [api-keys](https://github.com/pkgforge-security/api-keys): Check & Verify API Keys used for Intelligence/OSINT/Recon
+> - [Domains](https://github.com/pkgforge-security/domains): Misc Domain data collected, filtered & parsed from various sources
+> - [Wordlists](https://github.com/pkgforge-security/Wordlists): [Custom || Automated] Curation & Collection of BugBounty Wordlists
 
 ### `FAQ` 📖
 - #### Cool! How Can I participate, help & Contribute?
